@@ -1,4 +1,4 @@
- <h1>Automação Whatsapp</h1>
+ <h1>Envio de mensagens Whatsapp</h1>
  
  <h3>O que esse programa faz?</h3>
  <p> Básicamente, o programa irá ler a lista de contatos que está definida como "lista_contatos.txt", e começará a fazer o envio de mensagens que você digitou no campo "texto a ser enviado" quando você executou o programa.
